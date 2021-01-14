@@ -1,2 +1,2 @@
 # SQLZOO-Solutions
-My solutions to [SQLZoo](https://sqlzoo.net/)
+My solutions to [SQLZoo](https://sqlzoo.net/).
